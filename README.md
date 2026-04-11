@@ -1,5 +1,11 @@
 <h1>Hi, I'm Isiah!
 
+<h2>Azure Projects:</h2>
+
+- <b>Group Policy Lab</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+
 <h2>Systems Administration Projects:</h2>
 
 - <b>Group Policy Lab</b>
