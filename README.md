@@ -4,9 +4,8 @@
 
 - <b>[Azure Deployment Lab](https://github.com/isiahcooper1/AzureDeployment)</b>
 
- - <b>[Azure Monitor Lab](https://github.com/isiahcooper1/AzureMonitorLab)</b>
-<br />
-<br />
+- <b>[Azure Monitor Lab](https://github.com/isiahcooper1/AzureMonitorLab)</b>
+
 - <b>[Azure Storage and Network Lab](https://github.com/isiahcooper1/AzureStorageandNetwork)</b>
 
 <h2>Systems Administration Projects:</h2>
