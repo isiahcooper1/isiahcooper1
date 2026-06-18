@@ -3,8 +3,7 @@
 <h2>Azure Projects:</h2>
 
 - <b>[Azure Deployment Lab](https://github.com/isiahcooper1/AzureDeployment)</b>
-<br />
-<br />
+
  - <b>[Azure Monitor Lab](https://github.com/isiahcooper1/AzureMonitorLab)</b>
 <br />
 <br />
