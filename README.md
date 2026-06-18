@@ -20,8 +20,7 @@
 
 <h2>Certifications</h2>
 
-- [AZ-104](https://www.youtube.com/watch?v=a83ASGn_V_s)
-<img width="60" height="60" alt="az-104 certification" src="https://github.com/user-attachments/assets/84c7014a-662c-4d00-a058-301cd99abe46" />
+- [AZ-104](https://www.youtube.com/watch?v=a83ASGn_V_s)<img width="60" height="60" alt="az-104 certification" src="https://github.com/user-attachments/assets/84c7014a-662c-4d00-a058-301cd99abe46" />
 
 
 - [Security+]
