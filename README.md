@@ -10,8 +10,12 @@
 
 <h2>Systems Administration Projects:</h2>
 
-- <b>Group Policy Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>[Virtual Home Lab](https://github.com/isiahcooper1/VirtualHomeLab)</b>
+
+- <b>[Active Directory Lab](https://github.com/isiahcooper1/ActiveDirectoryLab)</b>
+
+- <b>[PowerShell Scripting Lab](https://github.com/isiahcooper1/PowerShellScripting)</b>
+  
 
 
 <h2>Certifications</h2>
