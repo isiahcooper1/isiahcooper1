@@ -23,7 +23,7 @@
 - [AZ-104](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 - [Security+]
-- <img width="80" height="80" alt="comptia-secure-infrastructure-specialist-csis-stackable-certification" src="https://github.com/user-attachments/assets/f33f505d-f0d9-459f-863a-1a24e743171d" />
+<img width="60" height="60" alt="comptia-secure-infrastructure-specialist-csis-stackable-certification" src="https://github.com/user-attachments/assets/f33f505d-f0d9-459f-863a-1a24e743171d" />
 
 - [Network+](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
