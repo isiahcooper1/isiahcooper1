@@ -21,7 +21,7 @@
 <h2>Certifications</h2>
 
 - [AZ-104](https://www.youtube.com/watch?v=a83ASGn_V_s)
-<img width="60" height="60" alt="comptia-security-ce-certification" src="" />
+<img width="60" height="60" alt="az-104 certification" src="" />
 
 
 - [Security+]
