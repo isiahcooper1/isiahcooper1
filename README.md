@@ -20,7 +20,14 @@
 
 <h2>Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [AZ-104](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+- [Security+](<img width="600" height="600" alt="comptia-secure-infrastructure-specialist-csis-stackable-certification" src="https://github.com/user-attachments/assets/f33f505d-f0d9-459f-863a-1a24e743171d" />
+)
+
+- [Network+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+- [AWS Certified Cloud Practicioner](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2>Connect with me:</h2>
