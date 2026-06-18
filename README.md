@@ -2,7 +2,7 @@
 
 <h2>Azure Projects:</h2>
 
-- <b>Group Policy Lab</b>
+- <b>[Azure Deployment Lab](https://github.com/isiahcooper1/AzureDeployment)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
  
 
