@@ -3,8 +3,12 @@
 <h2>Azure Projects:</h2>
 
 - <b>[Azure Deployment Lab](https://github.com/isiahcooper1/AzureDeployment)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
- 
+<br />
+<br />
+ - <b>[Azure Monitor Lab](https://github.com/isiahcooper1/AzureMonitorLab)</b>
+<br />
+<br />
+- <b>[Azure Storage and Network Lab](https://github.com/isiahcooper1/AzureStorageandNetwork)</b>
 
 <h2>Systems Administration Projects:</h2>
 
