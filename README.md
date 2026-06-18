@@ -21,13 +21,20 @@
 <h2>Certifications</h2>
 
 - [AZ-104](https://www.youtube.com/watch?v=a83ASGn_V_s)
+[az-104.pdf](https://github.com/user-attachments/files/29074714/az-104.pdf)
+
 
 - [Security+]
-<img width="60" height="60" alt="comptia-secure-infrastructure-specialist-csis-stackable-certification" src="https://github.com/user-attachments/assets/f33f505d-f0d9-459f-863a-1a24e743171d" />
+<img width="60" height="60" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/a44ca05a-fa27-46f2-9302-fc2af614dfc9" />
+
 
 - [Network+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+<img width="60" height="60" alt="comptia-network-ce-certification 1" src="https://github.com/user-attachments/assets/586b032a-70ed-4fef-9ded-5be6aa006099" />
 
-- [AWS Certified Cloud Practicioner](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+- [AWS Certified Cloud Practicioner]
+<img width="60" height="60" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/6e8f60ae-c216-4bd3-832e-50cd36f5cadd" />
+
 
 
 <h2>Connect with me:</h2>
